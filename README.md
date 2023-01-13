@@ -13,3 +13,8 @@ The goal of this project was to use machine learning techniques to predict the 2
 2022 March Madness Prediction.ipynb: The code used to create the models for the project. 
 
 Note: The original data for this project will not be included as the data is owned by Google and is part of a Kaggle competiiton. A link to the original Kaggle page is included in the written report. 
+
+## Technical Requirements:
+
+Any text editor that supports python can be used to run the code. Use of a GPU is highly recommended given the size of the dataset (especially on older or less powerful hardware).
+
