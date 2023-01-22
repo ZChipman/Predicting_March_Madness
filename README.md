@@ -33,6 +33,9 @@ Most of the source code for data cleaning was found within this post (https://ww
 
 The two models created and implemented in this analysis were XGBoost and convolutional neural networks. XGBoost, or eXtreme Gradient Boosting, is a library meant for computing gradient boosting at scale. The premise of gradient boosting is to provide a prediction from classification tasks defined in the model. Since XGBoost requires a classification metric for this model, the output of the training model provides the ‘logloss’ error as the evaluation. XGBoost was selected due to its accuracy and time performance. A model that doesn’t take too long to run, but still has a rather accurate result is what our team was looking for.
 
+Our team decided to explore another model for better reference. The other model, using a convolutional neural network (CNN), did not produce the ideal outcome but it is still worth exploring and including as part of the overall analysis. This deep learning model implemented the activation function ‘rectified linear unit’, also known as ReLU (activation = ‘relu’). This made the most sense to use and seemed more efficient than the sigmoid activation. In general, neural networks are quite powerful and can provide insights other algorithms might not be able to.
+
+
 ### Results:
 
 ![2022 Bracket](https://user-images.githubusercontent.com/87530934/213572570-141bab54-6cd6-4eda-a1de-3a2914711608.png)
