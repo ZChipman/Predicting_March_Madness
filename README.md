@@ -40,4 +40,17 @@ Our team decided to explore another model for better reference. The other model,
 
 ![2022 Bracket](https://user-images.githubusercontent.com/87530934/213572570-141bab54-6cd6-4eda-a1de-3a2914711608.png)
 
+# References:
+
+March machine learning mania 2022 - NCAAM. Kaggle. (2022). Retrieved March 19, 2022, from https://www.kaggle.com/c/mens-march-mania-2022/data
+
+Pomeroy, K. (2022). 2022 Pomeroy College Basketball Ratings. Retrieved March 19, 2022, from https://kenpom.com/
+
+reHOOPerate. (2020, January 15). New and improved March madness neural network for 2020. Medium. Retrieved March 19, 2022, from https://medium.com/re-hoop-per-rate/new-and-improved-march-madness-neural-network-for-2020-c154aa1041b7
+
+Sblendorio, D. (2021, March 19). Fantasy march madness: How to predict winners. ActiveState. Retrieved March 19, 2022, from https://www.activestate.com/blog/fantasy-march-madness-how-to-predict-winners/ 
+
+Dante Sblendorio's Repository: https://gitlab.com/dsblendo/kaggle_mm
+
+
 
