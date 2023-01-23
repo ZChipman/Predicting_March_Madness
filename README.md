@@ -38,7 +38,15 @@ Our team decided to explore another model for better reference. The other model,
 
 ### Results:
 
+The original project was developed in early March, just before the actual tournament kicked off. This meant we were able to see how our bracket performed in real time. Below is our full bracket.
+
 ![2022 Bracket](https://user-images.githubusercontent.com/87530934/213572570-141bab54-6cd6-4eda-a1de-3a2914711608.png)
+
+This was the status of the bracket after the first two rounds of the tournament. 
+
+![Roundof32BracketUpdate](https://user-images.githubusercontent.com/87530934/214110814-b964af67-e896-4316-872a-da8a30752e0b.png)
+
+Our bracket predicted 22 of the 32 first round matchups correct for an accuracy of 68.75%.
 
 # References:
 
