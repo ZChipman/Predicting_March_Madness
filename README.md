@@ -61,5 +61,10 @@ Sblendorio, D. (2021, March 19). Fantasy march madness: How to predict winners. 
 
 Dante Sblendorio's Repository: https://gitlab.com/dsblendo/kaggle_mm
 
+# Future Goals and Improvements:
+
+There are many ways to tackle this specific objective of creating the “perfect” bracket in the hopes of predicting the final winner of the March Madness tournament, such as using different data sets and trying new modeling algorithms. Our approach here was just one of many different paths to take. We stuck with the Kaggle data set since it was detailed and provided a lot of information that we could tailor into an XGBoost and CNN model. For future reference to improve predicting the winner, the Kenpom dataset would be a great addition to a model since it includes a “luck” factor attribute within it. Furthermore, different modeling techniques can be used, perhaps even just reconfiguring the XGBoost model setup here would work as well! 
+
+
 
 
