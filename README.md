@@ -47,7 +47,7 @@ This was the status of the bracket after the first two rounds of the tournament.
 
 ![Roundof32BracketUpdate](https://user-images.githubusercontent.com/87530934/214110814-b964af67-e896-4316-872a-da8a30752e0b.png)
 
-Our bracket predicted 22 of the 32 first round matchups correct for an accuracy of 68.75%.
+Our bracket predicted 22 of the 32 first round matchups correct for an accuracy of 68.75%. In 8 of the 10 cases where the model got it wrong, the percentage chance of the predicted team winning was between 60-65%. The 2 exceptions are UConn who lost despite having a 73% chance of victory, and Kentucky who lost despite having a 91% chance of winning. It should also be noted that our pick to win the tournament (Gonzaga) was eliminated in the Sweet 16 while Kansas (a team we projected to fall in the Elite 8) ended up winning the tournament.
 
 # References:
 
