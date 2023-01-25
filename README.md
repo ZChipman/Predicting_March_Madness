@@ -35,6 +35,7 @@ The two models created and implemented in this analysis were XGBoost and convolu
 
 Our team decided to explore another model for better reference. The other model, using a convolutional neural network (CNN), did not produce the ideal outcome but it is still worth exploring and including as part of the overall analysis. This deep learning model implemented the activation function ‘rectified linear unit’, also known as ReLU (activation = ‘relu’). This made the most sense to use and seemed more efficient than the sigmoid activation. In general, neural networks are quite powerful and can provide insights other algorithms might not be able to.
 
+After understanding the results produced by the two different models, we decided to use the XGBoost model to continue with our prediction in selecting the champion of the 2022 March Madness Tournament since it was the main model we created before submitting the brackets. The CNN model was built afterward and used as a reference only since the predictions were similar with Gonzaga winning the tournament and Baylor, Arizona, and Auburn being the other teams in the final four.
 
 ### Results:
 
