@@ -37,7 +37,11 @@ Our team decided to explore another model for better reference. The other model,
 
 After understanding the results produced by the two different models, we decided to use the XGBoost model to continue with our prediction in selecting the champion of the 2022 March Madness Tournament since it was the main model we created before submitting the brackets. The CNN model was built afterward and used as a reference only since the predictions were similar with Gonzaga winning the tournament and Baylor, Arizona, and Auburn being the other teams in the final four.
 
-### Results:
+## Results:
+
+The summary of the results are divided by year.
+
+### 2022:
 
 The original project was developed in early March, just before the actual tournament kicked off. This meant we were able to see how our bracket performed in real time. Below is our full bracket.
 
@@ -48,6 +52,11 @@ This was the status of the bracket after the first two rounds of the tournament.
 ![Roundof32BracketUpdate](https://user-images.githubusercontent.com/87530934/214110814-b964af67-e896-4316-872a-da8a30752e0b.png)
 
 Our bracket predicted 22 of the 32 first round matchups correct for an accuracy of 68.75%. In 8 of the 10 cases where the model got it wrong, the percentage chance of the predicted team winning was between 60-65%. The 2 exceptions are UConn who lost despite having a 73% chance of victory, and Kentucky who lost despite having a 91% chance of winning. It should also be noted that our pick to win the tournament (Gonzaga) was eliminated in the Sweet 16 while Kansas (a team we projected to fall in the Elite 8) ended up winning the tournament.
+
+### 2023:
+
+At the time of writing, no major alterations were made to the models for the 2023 version of the tournament. We are currently at the Sweet 16 stage of the tournament and the XGB boost model got 8 of the 16 teams correct while the CNN got 7. One thing to note is that Purdue (a 1 seed) lost to Fairleigh Dickinson University (a 16 seed), only the second time this has ever happened in the history of the tournament. 
+
 
 # References:
 
