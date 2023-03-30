@@ -55,7 +55,7 @@ Our bracket predicted 22 of the 32 first round matchups correct for an accuracy 
 
 ### 2023:
 
-At the time of writing, no major alterations were made to the models for the 2023 version of the tournament. We are currently at the Sweet 16 stage of the tournament and the XGB boost model got 8 of the 16 teams correct while the CNN got 7. One thing to note is that Purdue (a 1 seed) lost to Fairleigh Dickinson University (a 16 seed), only the second time this has ever happened in the history of the tournament. 
+At the time of writing, no major alterations were made to the models for the 2023 version of the tournament. We are currently at the Final Four stage of the tournament and none of the teams were predicted by either model to make it this far. One thing to note is that Purdue (a 1 seed) lost to Fairleigh Dickinson University (a 16 seed), only the second time this has ever happened in the history of the tournament. When the models were initially run, they would either predict Alabama or Houston to win the tournament. However, both teams were eliminated in the Sweet 16, marking the first time in tournament history that a 1 seed did not advance to the Elite 8.
 
 
 # References:
